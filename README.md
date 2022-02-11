@@ -1,23 +1,23 @@
 ### Hi there 👋 I’m Laura
 
-🔭 I’m a frontend developer 
+🔭 I’m a Fullstack DEVELOPER 
 
 🌱 I’m currently learning at Henry 
 
-😄 I love to learn new things everyday
+😄 I love to LEARN new things everyday
 
-👯 I enjoy working in a team
+👯 I enjoy working in a TEAM
 
 💬 I am a sociable person
 
-⚡ I love music
+⚡ I love MUSIC
 
-😄 I like to ✨ dance ✨
+😄 I like to ✨ DANCE ✨
 
 
 📫 How to reach me: 
 <br>My Linked In profile https://www.linkedin.com/in/laura-brener-dev/ </br>
-My email is laubrener@gmail.com
+My email laubrener@gmail.com
 
 
 
