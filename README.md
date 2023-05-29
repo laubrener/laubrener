@@ -1,8 +1,8 @@
 ### Hi there 👋 I’m Laura
 
-🔭 I’m a Fullstack DEVELOPER 
+🌱 I’m a FLUTTER developer
 
-🌱 I’m currently learning at Henry 
+🔭 I’m a Fullstack DEVELOPER (MERN)
 
 😄 I love to LEARN new things everyday
 
